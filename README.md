@@ -23,7 +23,6 @@ class CONt12006:
     program    = "Applied Mathematics & Informatics, class of 2028"
     building   = ["distributed backends", "recommender systems", "computer vision tools"]
     languages  = ["Python", "Go", "C++"]
-    motto      = "If it can be automated, it will be a Telegram bot."
 ```
 
 ---
